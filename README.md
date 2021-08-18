@@ -14,6 +14,7 @@ I am using the folllowing
 - PHP - Platform 
 - Laravel - PHP Framework 
 - Vue.js - Javascript Framework 
+	- Axios - communicating to API 
 - Bootstrap 5 - for my UI 
 
 Thank you
